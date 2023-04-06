@@ -18,7 +18,9 @@ Scientific machine reading comprehension (SMRC) aims to understand scientific te
 ### Data Statistics
 
 Train 5049  
+
 Dev 2019
+
 Test 3616
 
 ### Data Format
@@ -74,4 +76,6 @@ Test 3616
      ]
     }
 ### Baseline
-bash run.sh
+
+1. Translate our dataset into text-to-text format.
+2. bash run.sh

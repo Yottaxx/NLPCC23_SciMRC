@@ -14,7 +14,7 @@ Scientific machine reading comprehension (SMRC) aims to understand scientific te
 ## Dataset
 
 <!-- The data is available [here]().  -->
-
+https://drive.google.com/file/d/1NmVoj5edxX2aEcWL9B0dF-pZqJBPhuKB/view
 ### Data Statistics
 
 Train 5049  

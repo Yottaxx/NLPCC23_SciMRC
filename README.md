@@ -9,7 +9,7 @@
 
 
 Scientific machine reading comprehension (SMRC) aims to understand scientific texts through interactions with humans by given questions. In this task, questions about scientific texts include perspectives from beginners, students and experts. It requires different levels of understanding of scientific texts. 
-- The entire dataset comes from multiple perspectives, including beginner perspective (machine generation), student perspective (manual annotation), and expert perspective (from openreview). -->
+- The entire dataset comes from multiple perspectives, including beginner perspective (machine generation), student perspective (manual annotation), and expert perspective (from openreview).
 
 ## Dataset
 

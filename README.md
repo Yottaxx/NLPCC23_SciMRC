@@ -18,8 +18,6 @@ https://drive.google.com/file/d/1ewbgZOy6CEpjzoVxnkQPPVItj6yslUi1/view?usp=shari
 
 ### Data Statistics
 
-Train 4322 
-
 ### Data Format
 
     {"id": '1912.01214', 

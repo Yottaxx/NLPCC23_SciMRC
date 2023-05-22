@@ -25,11 +25,11 @@ Scientific machine reading comprehension (SMRC) aims to understand scientific te
 The train & validation dataset includes 4873 qa pairs: https://drive.google.com/file/d/1ewbgZOy6CEpjzoVxnkQPPVItj6yslUi1/view?usp=sharing 
 
 The test dataset includes 1169 qa pairs: 
-
+https://drive.google.com/file/d/1N2fVmr-InkIA8rdEoXrtIj6ENmDaGkrw/view
 ## Submission & Evaluation
 We have ziped the submission format and test set into a zip file.
 For submission, the following materials should be packaged as one `zip` file and sent to 3220201024@bit.edu.cn.
-https://drive.google.com/file/d/1N2fVmr-InkIA8rdEoXrtIj6ENmDaGkrw/view
+
 
 ### Data Format
 

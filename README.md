@@ -29,7 +29,10 @@ https://drive.google.com/file/d/1N2fVmr-InkIA8rdEoXrtIj6ENmDaGkrw/view
 ## Submission & Evaluation
 We have ziped the submission format and test set into a zip file.
 For submission, the following materials should be packaged as one `zip` file and sent to 3220201024@bit.edu.cn.
-Submission format should follow the instruction of https://drive.google.com/file/d/1N2fVmr-InkIA8rdEoXrtIj6ENmDaGkrw/view (answer.json)
+
+1. Answer submission. Submission format should follow the instruction of https://drive.google.com/file/d/1N2fVmr-InkIA8rdEoXrtIj6ENmDaGkrw/view (answer.json).
+2. Reproducible code.
+3. Usage document.
 
 ### Data Format
 

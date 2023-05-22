@@ -7,17 +7,30 @@
 
 ## Overview
 
-
 Scientific machine reading comprehension (SMRC) aims to understand scientific texts through interactions with humans by given questions. In this task, questions about scientific texts include perspectives from beginners, students and experts. It requires different levels of understanding of scientific texts. 
 - The entire dataset comes from multiple perspectives, including beginner perspective (machine generation), student perspective (manual annotation), and expert perspective (from openreview).
+
+## Important Dates
+
+- 2023/03/15：registration open
+- 2023/04/06：release of detailed task guidelines & training data
+- 2023/05/05：registration deadline
+- 2023/05/21：release of test data
+- 2023/05/31：participants’ results submission deadline
+- 2023/06/10：evaluation results release and call for system reports and conference paper
 
 ## Dataset
 
 <!-- The data is available [here]().  -->
-https://drive.google.com/file/d/1ewbgZOy6CEpjzoVxnkQPPVItj6yslUi1/view?usp=sharing
+The train & validation dataset includes 4873 qa pairs: https://drive.google.com/file/d/1ewbgZOy6CEpjzoVxnkQPPVItj6yslUi1/view?usp=sharing 
 
-### Data Statistics
-Train 4873
+The test dataset includes 1169 qa pairs: 
+
+## Submission & Evaluation
+We have ziped the submission format and test set into a zip file.
+For submission, the following materials should be packaged as one `zip` file and sent to 3220201024@bit.edu.cn.
+https://drive.google.com/file/d/1N2fVmr-InkIA8rdEoXrtIj6ENmDaGkrw/view
+
 ### Data Format
 
     {"id": '1912.01214', 
@@ -70,7 +83,28 @@ Train 4873
         ...
      ]
     }
+
+
 ### Baseline
 
 1. Translate our dataset into text-to-text format.
 2. bash run.sh
+
+
+## Participants
+
+| Team ID | System Name        |
+| ------- | ------------------ |
+| 1       | Evay Info AI Team  |
+| 2       | Dependency Graphs For Reading Comprehension |
+| 3       | OUC_NLP |
+| 4       | 狼叼着羊 |
+| 5       | Emotional damage |
+| 6       | Mirror |
+| 7       | huawei_tsc_zeus |
+| 8       | Lastonestands |
+| 9       | cisl-nlp |
+| 10       | CUHK_SU |
+| 11       | its666 |
+| 12       | zutnlp-wujiahao |
+| 13       | MPSMRC_cup |

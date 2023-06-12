@@ -112,3 +112,11 @@ For submission, the following materials should be packaged as one `zip` file and
 | 12       | zutnlp-wujiahao |
 | 13       | MPSMRC_cup |
 | 14       | IMU_NLP |
+
+
+## 其他细节
+1. 使用Free_form_answer这个字段作为最终答案
+2. Metrics计算方式为RougeL
+3. Unanswerable仍然需要回答，但是由于其unanswerable所以在文中无对应证据，这类问题也会加入metrics计算中
+4. Annotate type 是供标注使用的特殊字段，区分不同的标注方式
+5. Evidence 提供标注的原始证据（evidence Annotate）以及检索的证据文档

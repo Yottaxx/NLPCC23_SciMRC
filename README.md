@@ -112,6 +112,8 @@ For submission, the following materials should be packaged as one `zip` file and
 | 12       | zutnlp-wujiahao |
 | 13       | MPSMRC_cup |
 | 14       | IMU_NLP |
+| 15       | 你猜对不队 |
+| 16       | PIE |
 
 
 ## 其他细节

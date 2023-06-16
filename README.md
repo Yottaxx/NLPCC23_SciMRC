@@ -128,7 +128,7 @@ For submission, the following materials should be packaged as one `zip` file and
 | Team ID | System Name        | 最终评测得分|
 | ------- | ------------------ | ------- |
 | 1       | 你猜对不队  | 0.5459 |
-| 2       | IMUNLP |  0.3574 |
+| 2       | IMUNLP |  0.4519 |
 | 3       | PIE |0.4181 |
 | 4       | OUC_NLP | 0.3574 |
 

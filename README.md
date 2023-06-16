@@ -122,3 +122,15 @@ For submission, the following materials should be packaged as one `zip` file and
 3. Unanswerable仍然需要回答，但是由于其unanswerable所以在文中无对应证据，这类问题也会加入metrics计算中
 4. Annotate type 是供标注使用的特殊字段，区分不同的标注方式
 5. Evidence 提供标注的原始证据（evidence Annotate）以及检索的证据文档
+
+
+## 最终排行榜
+| Team ID | System Name        | 最终评测得分｜
+| ------- | ------------------ | |
+| 1       | 你猜对不队  | 0.5459 |
+| 2       | IMUNLP |  0.3574 |
+| 3       | PIE |0.4181 |
+| 4       | OUC_NLP | 0.3574 |
+
+
+## 上述队伍请提交最终论文，详情请查看NLPCC2023官网
